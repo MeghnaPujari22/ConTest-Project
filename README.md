@@ -15,7 +15,7 @@ programming platforms.
 - It shows a list of upcoming coding contests hosted by various popular competitive
 programming websites.
 
-• Platform Supported:
+- Platform Supported:
 1. Atcoder
 2. Codechef
 3. Codeforces
@@ -25,5 +25,5 @@ programming websites.
 7. Topcoder
 8. Hackerrank
 
-  With the help of this website, user can get information about different websites or
+- With the help of this website, user can get information about different websites or
 platforms with their time.
