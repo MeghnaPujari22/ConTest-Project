@@ -2,7 +2,7 @@
 API Based ConTest  Project
 
 
-##  INTRODUCTION
+##  Introduction
 
 - An Online ConTest Website is system which is designed in favor of the online
 contest which helps them to save the time of the competitors about their searching where
