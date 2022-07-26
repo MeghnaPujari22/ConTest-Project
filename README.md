@@ -43,4 +43,10 @@ platforms with their time.
 ![Screenshot (791)](https://user-images.githubusercontent.com/105864503/180921074-f5cb9c39-2d9d-4123-a5ac-7a5ed9c7e20b.png)
 
 
+### About page:
+
+![Screenshot (779)](https://user-images.githubusercontent.com/105864503/180921432-ef510f0a-30bb-4e5f-8d9e-117c4976426c.png)
+
+
+
 
