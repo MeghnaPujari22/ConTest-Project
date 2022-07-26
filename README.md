@@ -30,6 +30,17 @@ platforms with their time.
 
 ## Output Screen
 
+### Home page:
+
 ![Screenshot (790)](https://user-images.githubusercontent.com/105864503/180920636-d34d2942-3dfd-4201-98de-6bf8400123e3.png)
+
+### Codeforces page:
+
+![Screenshot (789)](https://user-images.githubusercontent.com/105864503/180921087-889110d7-5931-4a5e-98e8-937606ba8bd1.png)
+
+### Topcoder page:
+
+![Screenshot (791)](https://user-images.githubusercontent.com/105864503/180921074-f5cb9c39-2d9d-4123-a5ac-7a5ed9c7e20b.png)
+
 
 
