@@ -16,14 +16,14 @@ programming platforms.
 programming websites.
 
 - Platform Supported:
-1. Atcoder
-2. Codechef
-3. Codeforces
-4. Google
-5. Hackerearth
-6. Leetcode
-7. Topcoder
-8. Hackerrank
+    1. Atcoder
+    2. Codechef
+    3. Codeforces
+    4. Google
+    5. Hackerearth
+    6. Leetcode
+    7. Topcoder
+    8. Hackerrank
 
 - With the help of this website, user can get information about different websites or
 platforms with their time.
