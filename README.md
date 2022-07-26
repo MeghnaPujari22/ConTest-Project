@@ -27,3 +27,9 @@ programming websites.
 
 - With the help of this website, user can get information about different websites or
 platforms with their time.
+
+## Output Screen
+
+![Screenshot (790)](https://user-images.githubusercontent.com/105864503/180920636-d34d2942-3dfd-4201-98de-6bf8400123e3.png)
+
+
